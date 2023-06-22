@@ -5,6 +5,15 @@
       "bundler": "metro"
     },
     "name": "testapp",
-    "slug": "testapp"
+    "slug": "testapp",
+    "extra": {
+      "eas": {
+        "projectId": "945d4abb-3cd1-43c0-afc6-e8290ede6f50"
+      }
+    },
+    "owner": "ah-munna",
+    "android": {
+      "package": "com.ahmunna.testapp"
+    }
   }
 }
